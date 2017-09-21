@@ -7,5 +7,3 @@ add stage Test
 manage  update
 
 manage  again
-
-Âí¸ç 
