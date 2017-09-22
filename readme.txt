@@ -7,3 +7,5 @@ add stage Test
 manage  update
 
 manage  again
+
+checkout git
