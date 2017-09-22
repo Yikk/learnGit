@@ -11,4 +11,4 @@ manage  again
 checkout git
 checkout  again
 
-create new branch three+feature+simple+new Dev
+create new branch three+feature+simple+new Dev+stash
