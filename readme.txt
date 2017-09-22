@@ -9,3 +9,6 @@ manage  update
 manage  again
 
 checkout git
+checkout  again
+
+create new branch three
